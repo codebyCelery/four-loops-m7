@@ -1,0 +1,16 @@
+tipo,id,base
+camion,CAM-01,PIU
+camion,CAM-02,PIU
+camion,CAM-03,SUL
+camion,CAM-04,PAI
+camion,CAM-05,CAS
+camion,CAM-06,SUL
+brigada,BRI-01,PIU
+brigada,BRI-02,CAS
+brigada,BRI-03,SUL
+brigada,BRI-04,CAT
+brigada,BRI-05,CHU
+brigada,BRI-06,TAL
+maquina,MAQ-01,PIU
+maquina,MAQ-02,SUL
+maquina,MAQ-03,CAS
